@@ -403,3 +403,5 @@ http://122.51.50.249:8080/jenkins/job/JinkinsWeb/build?token=BRUCELIU_TRIGGER
 - 发布到部署服务器
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20191124134620708.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0JydWNlTGl1X2NvZGU=,size_16,color_FFFFFF,t_70)
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20191124134630344.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0JydWNlTGl1X2NvZGU=,size_16,color_FFFFFF,t_70)
+
+### 注： 本内容来源于51石头老师的课件
