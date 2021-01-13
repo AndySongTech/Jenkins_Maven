@@ -48,6 +48,9 @@ Jenkins功能包括： 持续的软件版本发布/测试项目。 监控外部�
 本文直接使用war包安装
 下载地址：[https://jenkins-ci.org/content/thank-you-downloading-windows-installer/](https://jenkins-ci.org/content/thank-you-downloading-windows-installer/)
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20191123220550530.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0JydWNlTGl1X2NvZGU=,size_16,color_FFFFFF,t_70) 
+```
+```
+清华镜像：Jenkins 2.263.1 - [https://mirrors.tuna.tsinghua.edu.cn/jenkins/war-stable/](https://mirrors.tuna.tsinghua.edu.cn/jenkins/war-stable/)
 
 ### 4.2.部署Jenkins
 
