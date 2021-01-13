@@ -120,12 +120,19 @@ be76491b01ff4c7a94ab682ec6c0d125
 **打开Tomcat的server.xml配置文件,添加编码格式**
 
 ```xml
+[root@andycentos conf]# vim /opt/jenkinsserver/conf/server.xml
 <Connector port="8080" protocol="HTTP/1.1"
            connectionTimeout="20000"
            redirectPort="8443" 
-            URIEncoding="UTF-8"/>
+           URIEncoding="UTF-8"/>
 ```
+```shell
+[root@andycentos ~]cd /opt/jenkinsserver/bin/
+[root@andycentos bin]./shutdown.sh
+[root@andycentos bin]./startup.sh
 重新启动,tomcat!
+```
+
 ## 5.安装maven
 1：在/usr/local目录下创建一个名字叫做maven3的目录
 
